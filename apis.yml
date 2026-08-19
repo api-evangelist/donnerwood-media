@@ -28,7 +28,7 @@ x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-detail: Meez.com went offline December 2017; primary domain expired March 2018; no domain resolves and no API surface exists.
 x-founded: '2005'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
